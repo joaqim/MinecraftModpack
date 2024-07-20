@@ -28,17 +28,27 @@
       packages =
         let
           packwiz2nixLib = inputs.packwiz2nix.lib.${system};
+
+          #These builds expects *Double Invocation*
+          # Without proper hash, the first build _will_ fail. 
+          # The failed result will tell you the expected `hash` to assign below.
+          # When you've set the hash, the next build will return with a `/nix/store` entry of the results, 
+          # symlinked as `./result`.
+
+          packwiz-pack-hash = null;
+          modrinth-pack-hash = "sha256-+9NpIatjjbJ/5/+hHoSNdoKwA0Ive/jFafwXYF/IQ2Y=";
         in
         {
+          
           packwiz-server = packwiz2nixLib.fetchPackwizModpack {
             manifest = "${self}/pack.toml";
-            hash = "sha256-JDdkCLeIdnHpTbEUA8WkH6G/0flbXBkHrYF9N/AlG8k=";
+            hash = packwiz-pack-hash;
             side = "server";
           };
 
           modrinth-pack = pkgs.callPackage ./nix/packwiz-modrinth.nix {
             src = self;
-            hash = "sha256-qPfIgqP6Xv4tt2p8xnDsspW540Q2We6nWUGYiJynyvM=";
+            hash = modrinth-pack-hash;
           };
 
           # Not used for anything right now

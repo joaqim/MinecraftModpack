@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
@@ -144,6 +144,21 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "2f9a42bcb1d5be33306bd559bff44cfabb4abcd3c0b92676600715715d85ffde"
 metafile = true
 
 [[files]]
@@ -208,7 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+hash = "70f677a3c35b5bb6f63450fe9b231529d2f17aefa5cca2cedcd56cb4d5e01e00"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
@@ -234,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/fog-looks-modern-now.pw.toml"
 hash = "b31deb48d2140594addc96b1dcd18fea01509d5ce9581290b9dee40627696426"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
 metafile = true
 
 [[files]]
@@ -484,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "dd0be3efb63cd3982967dc58f3fe51f786e29c1cc28d5c51cb65dfe4e95e4f8e"
 metafile = true
 
 [[files]]
