@@ -56,7 +56,7 @@
           # symlinked as `./result`.
 
           packwiz-pack-hash = "sha256-z3qFcUPGxSXV3OymwPqn+lgjmYGG+G5X2sirm4dXGLc=";
-          modrinth-pack-hash = "sha256-BgFJKLG9NQTjD8tceEPrCzVxkeNh7sDxadNXNWbs/e4=";
+          modrinth-pack-hash = "sha256-MrxGRiA7vruKjxbdDEnA2HO+1QJnb6h+ynazyGDpCwc=";
         in {
           packwiz-server = fetchPackwizModpack {
             manifest = "${self}/pack.toml";
