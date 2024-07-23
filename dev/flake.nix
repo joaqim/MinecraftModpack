@@ -47,22 +47,17 @@
 
           packwiz-refresh = pkgs.writeShellApplication {
             name = "packwiz-refresh";
-            runtimeInputs = [ pkgs.packwiz ];
-            
-            # Workaround for running packwiz in FLAKE_ROOT instead of `.direnv/flake-inputs`/*
-            # https://github.com/NixOS/nix/issues/8034#issuecomment-2046069655
-            text = ''
-            FLAKE_ROOT="$(git rev-parse --show-toplevel)"
-            (
-              cd "$FLAKE_ROOT"
-              if [[ "$FLAKE_ROOT" == *MinecraftModpack* ]]; then
-                packwiz refresh
-              else
-                echo "Warning: Not running in expected repository, but in '$FLAKE_ROOT'!"
-              fi
-            )
-            '';
+            runtimeInputs = [pkgs.packwiz];
+            text = "packwiz refresh";
           };
+
+          update-flake-hash = pkgs.writeShellApplication {
+            name = "update-flake-hash";
+            runtimeInputs = [];
+            text = builtins.readFile ./update-flake-hash.sh;
+          };
+
+          create-modpack-release = pkgs.callPackage ./create-modpack-release {};
         };
 
         devShells = {
