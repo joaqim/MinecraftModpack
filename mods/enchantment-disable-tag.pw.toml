@@ -1,0 +1,13 @@
+name = "Enchantment Disable Tag"
+filename = "enchantmentdisabletag-forge-1.1.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P7SsQE5n/versions/isvTWFOj/enchantmentdisabletag-forge-1.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "9095f28391d759eab1ee0a1c8211cf778dfaebd6"
+
+[update]
+[update.modrinth]
+mod-id = "P7SsQE5n"
+version = "isvTWFOj"

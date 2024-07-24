@@ -1,0 +1,13 @@
+name = "Quicker Connect Button"
+filename = "Quicker Connect Button-forge-1.20.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1SruaFxM/versions/lSWzZfbB/Quicker%20Connect%20Button-forge-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "1f52935d262f8f8e3818e60a7a01210f73f6acb3"
+
+[update]
+[update.modrinth]
+mod-id = "1SruaFxM"
+version = "lSWzZfbB"

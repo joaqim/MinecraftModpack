@@ -1,0 +1,13 @@
+name = "Enchancement Forge/Sinytra Connector Fix"
+filename = "enchancement-forge-fix-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DqhX1Xg/versions/UpKO3bcn/enchancement-forge-fix-1.2.jar"
+hash-format = "sha1"
+hash = "7183e550e528bbd944651f9551ddb694d61ab0f2"
+
+[update]
+[update.modrinth]
+mod-id = "1DqhX1Xg"
+version = "UpKO3bcn"
