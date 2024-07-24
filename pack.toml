@@ -1,12 +1,12 @@
 name = "Joaqim's Minecraft Modpack"
 author = "Joaqim Planstedt <mail@joaqim.xyz>"
-version = "1.0.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "913ce9212e72ce0380b613e3b3a5ac198ee95ddf7251f53f22240c98ab854e02"
+hash = "87cdf85678c86f4243c75077b73443222562e7131d85f2cab29e753ca12309fa"
 
 [versions]
 forge = "47.3.1"

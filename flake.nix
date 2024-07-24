@@ -55,8 +55,8 @@
           # When you've set the hash, the next build will return with a `/nix/store` entry of the results,
           # symlinked as `./result`.
 
-          packwiz-pack-hash = "sha256-z3qFcUPGxSXV3OymwPqn+lgjmYGG+G5X2sirm4dXGLc=";
-          modrinth-pack-hash = "sha256-MrxGRiA7vruKjxbdDEnA2HO+1QJnb6h+ynazyGDpCwc=";
+          packwiz-pack-hash = "sha256-oRXPVFqfrk2jmcnHXAEMQ6frs1l8GfpmBsX5jShGh+4=";
+          modrinth-pack-hash = "sha256-29HupCKW6QIG+MHkyDRzmIhKOo08CtGx227wxdjphw0=";
         in {
           packwiz-server = fetchPackwizModpack {
             manifest = "${self}/pack.toml";

@@ -1,0 +1,13 @@
+name = "Campfire Spawn and Tweaks"
+filename = "campfirespawnandtweaks-1.20.1-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wcTF0Tg1/versions/FDKF5kP3/campfirespawnandtweaks-1.20.1-3.7.jar"
+hash-format = "sha1"
+hash = "45447b5323efc4bd7ee6f05ed6372bf1dd635aee"
+
+[update]
+[update.modrinth]
+mod-id = "wcTF0Tg1"
+version = "FDKF5kP3"

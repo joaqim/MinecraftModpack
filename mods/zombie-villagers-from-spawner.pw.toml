@@ -1,0 +1,13 @@
+name = "Zombie Villagers From Spawner"
+filename = "zombievillagersfromspawner-1.20.1-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQlT8uIq/versions/lk9JyCAL/zombievillagersfromspawner-1.20.1-3.7.jar"
+hash-format = "sha1"
+hash = "34bdfd33e9b0967cf0b9c86fdb4acb71583163a2"
+
+[update]
+[update.modrinth]
+mod-id = "wQlT8uIq"
+version = "lk9JyCAL"

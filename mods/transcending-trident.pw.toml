@@ -1,0 +1,13 @@
+name = "Transcending Trident"
+filename = "transcendingtrident-1.20.1-4.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7GxZi46W/versions/yuS4dzqq/transcendingtrident-1.20.1-4.6.jar"
+hash-format = "sha1"
+hash = "ef9d776f17435912b8c417de07eed53b7679bceb"
+
+[update]
+[update.modrinth]
+mod-id = "7GxZi46W"
+version = "yuS4dzqq"

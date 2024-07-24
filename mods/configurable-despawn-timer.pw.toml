@@ -1,0 +1,13 @@
+name = "Configurable Despawn Timer"
+filename = "configurabledespawntimer-1.20.1-4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9olMJ5Qp/versions/ZGbnynZ1/configurabledespawntimer-1.20.1-4.1.jar"
+hash-format = "sha1"
+hash = "5903cf8ad1696d836ecb225731ff95e7cd0904d9"
+
+[update]
+[update.modrinth]
+mod-id = "9olMJ5Qp"
+version = "ZGbnynZ1"
