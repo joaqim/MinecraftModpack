@@ -1,0 +1,13 @@
+name = "Nether Portal Spread"
+filename = "netherportalspread-1.20.1-8.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/nHgpQbX7/netherportalspread-1.20.1-8.1.jar"
+hash-format = "sha1"
+hash = "ee35ed27ab84d385571c0340e935c51811fc0ec1"
+
+[update]
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "nHgpQbX7"

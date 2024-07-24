@@ -1,0 +1,13 @@
+name = "All Loot Drops"
+filename = "alllootdrops-1.20.1-3.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/n7PBO6pb/versions/lWZqIfEz/alllootdrops-1.20.1-3.3.jar"
+hash-format = "sha1"
+hash = "58b7ef9c901d32db9f73c0612be91cf11e42c493"
+
+[update]
+[update.modrinth]
+mod-id = "n7PBO6pb"
+version = "lWZqIfEz"

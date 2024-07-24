@@ -1,0 +1,13 @@
+name = "Edibles"
+filename = "edibles-1.20.1-4.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rjl8pCZ9/versions/9vPGP4PO/edibles-1.20.1-4.3.jar"
+hash-format = "sha1"
+hash = "16dfe423fc439162d98aa618423b99b12dcdefdb"
+
+[update]
+[update.modrinth]
+mod-id = "Rjl8pCZ9"
+version = "9vPGP4PO"

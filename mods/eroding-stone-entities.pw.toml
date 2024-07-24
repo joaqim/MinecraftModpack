@@ -1,0 +1,13 @@
+name = "Eroding Stone Entities"
+filename = "erodingstoneentities-1.20.1-4.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwJ8fcSB/versions/nTcHwFjy/erodingstoneentities-1.20.1-4.4.jar"
+hash-format = "sha1"
+hash = "c2f6ca212b96da5a140d3ddaf3567b5a99352191"
+
+[update]
+[update.modrinth]
+mod-id = "EwJ8fcSB"
+version = "nTcHwFjy"

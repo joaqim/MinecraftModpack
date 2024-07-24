@@ -1,0 +1,13 @@
+name = "Automatic Doors"
+filename = "automaticdoors-1.20.1-4.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PGBgocFc/versions/jp6z4kMu/automaticdoors-1.20.1-4.6.jar"
+hash-format = "sha1"
+hash = "73aa2fe6b8af71208af3949ebbf8eb1f399d14a7"
+
+[update]
+[update.modrinth]
+mod-id = "PGBgocFc"
+version = "jp6z4kMu"

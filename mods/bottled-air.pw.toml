@@ -1,0 +1,13 @@
+name = "Bottled Air"
+filename = "bottledair-1.20.1-2.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvrrNux3/versions/TzVdS64T/bottledair-1.20.1-2.3.jar"
+hash-format = "sha1"
+hash = "40144ea286008f52e4a9b603e1bd96f73f4b3de1"
+
+[update]
+[update.modrinth]
+mod-id = "hvrrNux3"
+version = "TzVdS64T"

@@ -1,0 +1,13 @@
+name = "Crying Portals"
+filename = "cryingportals-1.20.1-2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RkVNglH/versions/PqKrTii2/cryingportals-1.20.1-2.7.jar"
+hash-format = "sha1"
+hash = "a1c5f2428d30e0d6b550bae39cf410470b85b921"
+
+[update]
+[update.modrinth]
+mod-id = "3RkVNglH"
+version = "PqKrTii2"

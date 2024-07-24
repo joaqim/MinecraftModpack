@@ -1,0 +1,13 @@
+name = "More Zombie Villagers"
+filename = "morezombievillagers-1.20.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xu15hkKT/versions/FvTTF3SL/morezombievillagers-1.20.1-3.5.jar"
+hash-format = "sha1"
+hash = "e835e82d7928d68ddcbff02c769fb8827e23bbf2"
+
+[update]
+[update.modrinth]
+mod-id = "xu15hkKT"
+version = "FvTTF3SL"
