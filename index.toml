@@ -199,6 +199,11 @@ hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
